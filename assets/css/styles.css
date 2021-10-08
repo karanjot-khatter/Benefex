@@ -1,0 +1,133 @@
+.project-container{
+    margin: 20px; 
+}
+
+.project-container .introduction{
+    margin-top:2px;
+}
+
+.project-container .introduction .intro-text{
+    background-color:#5b06dc;
+    height: 100%;
+    padding: 10px;
+}
+
+.project-container .introduction .intro-text h4, .project-container .rowcontent-1 .content1-text h4{
+    color:white;
+    font-weight: bold;
+    font-size: 1.5vw;
+}
+
+.project-container .introduction .intro-text p, .project-container .rowcontent-1 .content1-text p{
+    color:white;
+    font-size: 1.5vw;
+}
+
+.project-container .rowcontent-1 .section{
+    background-color:#2a2a2a;
+    color:white;
+    font-size:1.5vw;
+    padding: 30px 10px;
+    height: 100%;
+}
+
+.project-container .rowcontent-1 .section h4{
+    font-size:1.5vw;
+    font-weight:bold;
+    line-height: 0.4;
+}
+
+.project-container .rowcontent-1 .section p{
+  margin-bottom: 3px;
+}
+
+.project-container .rowcontent-1 .content1-text {
+    background-color:#ba73ec;
+    height: 100%;
+    padding: 10px;
+}
+
+.project-container .financial-mot{
+  margin: 30px 0 10px 0;
+  border-bottom:1px solid #dadada;
+  padding-bottom: 20px;
+}
+
+.project-container .financial-mot h2{
+    color:#5731c6;
+    text-align: center; 
+    line-height: 0.6;
+}
+
+.project-container .content-2 {
+        padding: 40px 0;
+        border-bottom: 1px solid #dadada;
+}
+.project-container .content-2 h4{
+    font-weight:bold;
+}
+
+.project-container .content-2 p{
+    color: #ba71ef;
+}
+
+.project-container .button1, .project-container .button2{
+    display: block;
+    margin: auto;
+    padding-top: 10px;
+}
+
+.project-container .content-3{
+    margin-top: 40px;
+}
+
+.project-container .content-3 .content3-text{
+    background-color:#78f2fd;
+    height: 100%;
+    padding: 10px;
+}
+
+.project-container .content-3 .content3-text h4{
+    font-size:1.5vw;
+    font-weight:bold;
+}
+
+.project-container .content-3 .content3-text p{
+    color:#5d06da;
+    font-size:1.5vw;
+}
+
+.project-container .content-4{
+    margin-top: 10px;
+}
+
+.project-container .content-4 .content4-text{
+    padding: 0 10px;
+}
+
+.project-container .content-4 .content4-text h4{
+    font-size:1.5vw;
+    font-weight:bold;
+}
+
+.project-container .content-4 .content4-text p{
+    font-size:1.5vw;
+    color:#bf75f2;
+}
+
+.project-container .disclaimer{
+    background-color:#dfdfdf;
+    padding: 10px;
+    margin-top: 10px;
+}
+
+.project-container .disclaimer p{
+    font-size: 10px;
+    padding: 10px 10px 0 10px;
+}
+
+.project-container .disclaimer h4{
+    font-size: 12px;
+    text-decoration: underline;
+}
+
